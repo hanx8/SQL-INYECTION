@@ -22,7 +22,8 @@ Para corregir, utilizamos mysqli_real_escape_string llamando a Mysql anteponiend
 ![image](https://user-images.githubusercontent.com/46895869/51507034-e7b58180-1dbc-11e9-8146-5de69f496a34.png)
 
 
-Luego al realizar la misma prueba que se realizó al inicio con el código corregido(SQL-INYECTION-FINAL.txt)
+Luego al realizar la misma prueba que se realizó al inicio con el código corregido(SQL-INYECTION-FINAL.txt).
+
 Da como resultado el ID seleccionado:
 
 
