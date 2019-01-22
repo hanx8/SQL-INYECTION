@@ -24,4 +24,6 @@ Para corregir, utilizamos mysqli_real_escape_string llamando a Mysql anteponiend
 Da como resultado el ID seleccionado:
 
 
+![image](https://user-images.githubusercontent.com/46895869/51507058-087dd700-1dbd-11e9-821b-a260a90656f6.png)
+
 
