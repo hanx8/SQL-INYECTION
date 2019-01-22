@@ -12,5 +12,13 @@ Luego de ello, unimos la consulta, dando en la parte inferior el HASH del passwo
 1' OR 1=1 UNION SELECT user,password from users#
 
 
+![image](https://user-images.githubusercontent.com/46895869/51506994-bb016a00-1dbc-11e9-96b7-e6d6dfc5caf9.png)
+
+
+Para corregir, utilizamos mysqli_real_escape_string llamando a Mysql anteponiendo “\”. Además, utilizamos las opciones de entrada específicas:
+
+
+
+
 
 
